@@ -1,0 +1,32 @@
+{
+  "intro": {
+    "title": "Our home",
+    "imageSrc": "/home/our-home.png",
+    "imageAlt": "Our home"
+  },
+  "descr": "Lorem ipsum dolor sit amet, munere aperiri tractatos cu nam, pro nonumy melius legimus et. Id labore copiosae dissentiet sit. Case delicatissimi vis te, cu eos wisi omnes ancillae. Viris elaboraret liberavisse et duo, at unum omnes rationibus eam. Dicta impedit nominavi eu mel, cu his amet vocibus, prima nonumes ne est.",
+  "summary": "apartment - sleeps 8 - 3 bedrooms - 2 bathrooms",
+  "floorPlanMap": {
+    "title": "home floor map",
+    "coordinates": [
+      {
+        "title": "living room",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "imageSrc": "/home/intro.png",
+        "imageAlt": "living room"
+      },
+      {
+        "title": "kitchen",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "imageSrc": "/home/intro.png",
+        "imageAlt": "kitchen"
+      }
+    ]
+  }
+}

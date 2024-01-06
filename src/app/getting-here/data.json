@@ -1,0 +1,31 @@
+{
+  "intro": {
+    "title": "Getting here",
+    "imageSrc": "/getting-here/intro.png",
+    "imageAlt": "A view of our home from the street"
+  },
+  "descr": "Lorem ipsum dolor sit amet, munere aperiri tractatos cu nam, pro nonumy melius legimus et. Id labore copiosae dissentiet sit. Case delicatissimi vis te, cu eos wisi omnes ancillae. Viris elaboraret liberavisse et duo, at unum omnes rationibus eam. Dicta impedit nominavi eu mel, cu his amet vocibus, prima nonumes ne est.",
+  "topics": [
+    {
+      "title": "By plane",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/getting-here/by-plane.webp",
+      "imageAlt": "vancouver airport",
+      "lnk": "/getting-here/by-plane"
+    },
+    {
+      "title": "By car",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/getting-here/by-car.jpg",
+      "imageAlt": "border crossing",
+      "lnk": "/getting-here/by-car"
+    },
+    {
+      "title": "By ferry",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/getting-here/by-ferry.jpeg",
+      "imageAlt": "ferry",
+      "lnk": "/getting-here/by-ferry"
+    }
+  ]
+}

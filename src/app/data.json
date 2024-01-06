@@ -1,0 +1,35 @@
+{
+  "title": "Unit 2\n638 E 5TH\nV5T 1J2",
+  "imageSrc": "/intro.jpeg",
+  "imageAlt": "Vancouver Skyline",
+  "topics": [
+    {
+      "title": "Getting here",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/home.png",
+      "imageAlt": "Our home",
+      "lnk": "/getting-here"
+    },
+    {
+      "title": "Our home",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/our-home.png",
+      "imageAlt": "Our home",
+      "lnk": "/our-home"
+    },
+    {
+      "title": "Explore",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/activities.png",
+      "imageAlt": "Explore Vancouver",
+      "lnk": "/explore"
+    },
+    {
+      "title": "Food",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/food.jpeg",
+      "imageAlt": "Food",
+      "lnk": "/food"
+    }
+  ]
+}

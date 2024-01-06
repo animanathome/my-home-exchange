@@ -1,0 +1,31 @@
+{
+  "intro": {
+    "title": "Explore",
+    "imageSrc": "/explore/capilano.png",
+    "imageAlt": "Capilano Suspension Bridge"
+  },
+  "descr": "Lorem ipsum dolor sit amet, munere aperiri tractatos cu nam, pro nonumy melius legimus et. Id labore copiosae dissentiet sit. Case delicatissimi vis te, cu eos wisi omnes ancillae. Viris elaboraret liberavisse et duo, at unum omnes rationibus eam. Dicta impedit nominavi eu mel, cu his amet vocibus, prima nonumes ne est.",
+  "topics": [
+    {
+      "title": "Parks",
+      "descr": "Lorem ipsum dolor sit amet, munere aperiri tractatos cu nam, pro nonumy melius legimus et. Id labore copiosae dissentiet sit. Case delicatissimi vis te, cu eos wisi omnes ancillae. Viris elaboraret liberavisse et duo, at unum omnes rationibus eam. Dicta impedit nominavi eu mel, cu his amet vocibus, prima nonumes ne est.",
+      "imageSrc": "/explore/stanley-park.jpg",
+      "imageAlt": "Parks",
+      "lnk": "/explore/parks"
+    },
+    {
+      "title": "Museums",
+      "descr": "Lorem ipsum dolor sit amet, munere aperiri tractatos cu nam, pro nonumy melius legimus et. Id labore copiosae dissentiet sit. Case delicatissimi vis te, cu eos wisi omnes ancillae. Viris elaboraret liberavisse et duo, at unum omnes rationibus eam. Dicta impedit nominavi eu mel, cu his amet vocibus, prima nonumes ne est.",
+      "imageSrc": "/explore/science-world.jpg",
+      "imageAlt": "Museums",
+      "lnk": "/explore/museums"
+    },
+    {
+      "title": "After dark",
+      "descr": "Lorem ipsum dolor sit amet, munere aperiri tractatos cu nam, pro nonumy melius legimus et. Id labore copiosae dissentiet sit. Case delicatissimi vis te, cu eos wisi omnes ancillae. Viris elaboraret liberavisse et duo, at unum omnes rationibus eam. Dicta impedit nominavi eu mel, cu his amet vocibus, prima nonumes ne est.",
+      "imageSrc": "/explore/comedy.webp",
+      "imageAlt": "Comedy",
+      "lnk": "/explore/after-dark"
+    }
+  ]
+}

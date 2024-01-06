@@ -1,0 +1,45 @@
+{
+  "intro": {
+    "title": "Food",
+    "imageSrc": "/food.jpeg",
+    "imageAlt": "Food"
+  },
+  "descr": "Lorem ipsum dolor sit amet, munere aperiri tractatos cu nam, pro nonumy melius legimus et. Id labore copiosae dissentiet sit. Case delicatissimi vis te, cu eos wisi omnes ancillae. Viris elaboraret liberavisse et duo, at unum omnes rationibus eam. Dicta impedit nominavi eu mel, cu his amet vocibus, prima nonumes ne est.",
+  "topics": [
+    {
+      "title": "Groceries",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/food/groceries.jpg",
+      "imageAlt": "Groceries",
+      "lnk": "/food/groceries"
+    },
+    {
+      "title": "Breakfast",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/food/breakfast.webp",
+      "imageAlt": "Breakfast",
+      "lnk": "/food/breakfast"
+    },
+    {
+      "title": "Lunch",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/food/ramen.webp",
+      "imageAlt": "Breakfast",
+      "lnk": "/food/lunch"
+    },
+    {
+      "title": "Dinner",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/food/sushi.jpg",
+      "imageAlt": "dinner",
+      "lnk": "/food/dinner"
+    },
+    {
+      "title": "Drinks",
+      "descr": "Lorem ipsum dolor sit amet, dolorem nostrum honestatis sit cu. Te saperet commune vix, ius no noster",
+      "imageSrc": "/food/beer.jpeg",
+      "imageAlt": "Breakfast",
+      "lnk": "/food/lunch"
+    }
+  ]
+}
