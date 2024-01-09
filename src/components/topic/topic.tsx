@@ -23,6 +23,7 @@ const Topic = ({ title, descr, imageSrc, imageAlt, lnk }: TopicProps) => {
             </div>
             <Image
                 fill
+                quality={75}
                 src={imageSrc}
                 alt={imageAlt}
             />

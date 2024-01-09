@@ -13,8 +13,7 @@ const Intro = ({ title, imageSrc, imageAlt }: IntroProps) => {
             <h1>{title}</h1>
             <Image
                 fill={true}
-                placeholder={'blur'}
-                quality={100}
+                quality={75}
                 src={imageSrc}
                 alt={imageAlt}
                 priority={true}
